@@ -1,0 +1,25 @@
+# Local builds and binary release assets
+/build/
+/out/
+/grafted/
+/release/
+/dist/
+*.dll
+*.exe
+*.lib
+*.obj
+*.pdb
+*.zip
+
+# Local reports, backups and editor files
+/backups/
+/evidence/
+/reports/
+/work/
+*.log
+*.[Rr][Pp][Tt]
+*.dmp
+__pycache__/
+.vscode/
+.vs/
+CMakeUserPresets.json
