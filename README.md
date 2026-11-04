@@ -62,7 +62,7 @@ DayZServer/
 
 ## Сборка из исходников
 
-Потребуются CMake 3.30+, Ninja, `clang-cl` и окружение Visual Studio для x64 с Windows SDK. Подготовьте копию [исходников GRAFT](https://github.com/KRdayzmodding/KR_GRAFTED) на ревизии `9a55f22540ef2b72e9ecee5672c9acd180392aab`.
+Потребуются CMake 3.30+, Ninja, `clang-cl` и окружение Visual Studio для x64 с Windows SDK.
 
 Выполните из корня этого репозитория, подставив путь к GRAFT:
 
